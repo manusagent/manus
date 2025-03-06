@@ -1,1 +1,1 @@
-manus.la
+see more in manus.la
