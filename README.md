@@ -1,2 +1,1 @@
-# manus
-manusagent
+manus.la
