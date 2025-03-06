@@ -1,1 +1,1 @@
-see more in manus.la
+see more in https://manus.la
